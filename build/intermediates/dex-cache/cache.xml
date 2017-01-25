@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_14b9e6fc25feff504e04b66c93cf6ba44d59314f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b58a417b9df38869f4d89186ce31af526579cc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9a6cea156fb85a4f8785f9c772ef0c68879c56ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_08c796960415f3f971841d2287d67924fedc76d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_b5ca41e75d86541408912e3516ef3238c389d15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7e1660652fb560423f37ddd1a169bacf61fa8186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_09d29b4e3a8080ef51e16409bf8c2dbc3ac9022b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_007e2a9fbac66328a390e57b0ede6ae3a9ac3cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_a11ce40887ce16c12801a81f1ba884e17151445c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_47fdc96bc033fae186d673e70e0730295b0ed448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_399c848ed0fb98e800fe0f771e66d72176b5464f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_90bc84f152153ee30028d4a9c72e976e7e83dbb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_1083722243864f2ffb6b8d342811cf3948418758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9b81e5dd8dbc5de7cb331d0b734b1a4629bd58ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Karla\workspace\Ecuacion1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_8c3ebe2e4686c065606646dbf5ce9e31f4dc2987.jar" />
+    </item>
+
+</items>
